@@ -3,6 +3,7 @@
 A basic hotel management system built using Java, JSP, Servlets, JavaBeans, and MySQL. This project allows hotel staff to manage room bookings and guest data through a web interface.
 
 🔧 Features:
+
 Add new rooms to the system
 
 View available and booked rooms
